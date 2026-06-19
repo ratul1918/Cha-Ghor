@@ -1,1 +1,1 @@
-Starting new project 
+Starting new project.
